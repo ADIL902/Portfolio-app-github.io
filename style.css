@@ -474,7 +474,7 @@ section{
     text-align: center;
 }
 .main-text h2 span{
-    color: #0ef;
+    color: rgb(208, 223, 224);
 }
 .portfolio-content{
     display: flex;
